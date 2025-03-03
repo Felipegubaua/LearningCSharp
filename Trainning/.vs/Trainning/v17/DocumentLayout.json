@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\felip\\Documents\\Studiyng\\C#\\Codding\\Trainning\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57F1CA63-9FDF-4A50-BC5E-DD142C4394D8}|Trainning\\Trainning.csproj|c:\\users\\felip\\documents\\studiyng\\c#\\codding\\trainning\\trainning\\programs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F1CA63-9FDF-4A50-BC5E-DD142C4394D8}|Trainning\\Trainning.csproj|solutionrelative:trainning\\programs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F1CA63-9FDF-4A50-BC5E-DD142C4394D8}|Trainning\\Trainning.csproj|c:\\users\\felip\\documents\\studiyng\\c#\\codding\\trainning\\trainning\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F1CA63-9FDF-4A50-BC5E-DD142C4394D8}|Trainning\\Trainning.csproj|solutionrelative:trainning\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F1CA63-9FDF-4A50-BC5E-DD142C4394D8}|Trainning\\Trainning.csproj|c:\\users\\felip\\documents\\studiyng\\c#\\codding\\trainning\\trainning\\programs_developed\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F1CA63-9FDF-4A50-BC5E-DD142C4394D8}|Trainning\\Trainning.csproj|solutionrelative:trainning\\programs_developed\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F1CA63-9FDF-4A50-BC5E-DD142C4394D8}|Trainning\\Trainning.csproj|c:\\users\\felip\\documents\\studiyng\\c#\\codding\\trainning\\trainning\\programs_developed\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F1CA63-9FDF-4A50-BC5E-DD142C4394D8}|Trainning\\Trainning.csproj|solutionrelative:trainning\\programs_developed\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\felip\\Documents\\Studiyng\\C#\\Codding\\Trainning\\Trainning\\Programs_Developed\\Product.cs",
+              "RelativeDocumentMoniker": "Trainning\\Programs_Developed\\Product.cs",
+              "ToolTip": "C:\\Users\\felip\\Documents\\Studiyng\\C#\\Codding\\Trainning\\Trainning\\Programs_Developed\\Product.cs",
+              "RelativeToolTip": "Trainning\\Programs_Developed\\Product.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T22:24:14.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Programs.cs",
+              "DocumentMoniker": "C:\\Users\\felip\\Documents\\Studiyng\\C#\\Codding\\Trainning\\Trainning\\Programs.cs",
+              "RelativeDocumentMoniker": "Trainning\\Programs.cs",
+              "ToolTip": "C:\\Users\\felip\\Documents\\Studiyng\\C#\\Codding\\Trainning\\Trainning\\Programs.cs",
+              "RelativeToolTip": "Trainning\\Programs.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAiwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T22:10:00.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\felip\\Documents\\Studiyng\\C#\\Codding\\Trainning\\Trainning\\Programs_Developed\\Triangle.cs",
+              "RelativeDocumentMoniker": "Trainning\\Programs_Developed\\Triangle.cs",
+              "ToolTip": "C:\\Users\\felip\\Documents\\Studiyng\\C#\\Codding\\Trainning\\Trainning\\Programs_Developed\\Triangle.cs",
+              "RelativeToolTip": "Trainning\\Programs_Developed\\Triangle.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T21:33:45.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\felip\\Documents\\Studiyng\\C#\\Codding\\Trainning\\Trainning\\Menu.cs",
+              "RelativeDocumentMoniker": "Trainning\\Menu.cs",
+              "ToolTip": "C:\\Users\\felip\\Documents\\Studiyng\\C#\\Codding\\Trainning\\Trainning\\Menu.cs",
+              "RelativeToolTip": "Trainning\\Menu.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T10:22:31.254Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

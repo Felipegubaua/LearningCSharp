@@ -1,0 +1,14 @@
+C:\Users\felip\Documents\Studiyng\C#\Codding\Trainning\Trainning\obj\Debug\net9.0\Trainning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\Studiyng\C#\Codding\Trainning\Trainning\obj\Debug\net9.0\Trainning.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\Studiyng\C#\Codding\Trainning\Trainning\obj\Debug\net9.0\Trainning.AssemblyInfo.cs
+C:\Users\felip\Documents\Studiyng\C#\Codding\Trainning\Trainning\obj\Debug\net9.0\Trainning.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\Studiyng\C#\Codding\Trainning\Trainning\bin\Debug\net9.0\Trainning.exe
+C:\Users\felip\Documents\Studiyng\C#\Codding\Trainning\Trainning\bin\Debug\net9.0\Trainning.deps.json
+C:\Users\felip\Documents\Studiyng\C#\Codding\Trainning\Trainning\bin\Debug\net9.0\Trainning.runtimeconfig.json
+C:\Users\felip\Documents\Studiyng\C#\Codding\Trainning\Trainning\bin\Debug\net9.0\Trainning.dll
+C:\Users\felip\Documents\Studiyng\C#\Codding\Trainning\Trainning\bin\Debug\net9.0\Trainning.pdb
+C:\Users\felip\Documents\Studiyng\C#\Codding\Trainning\Trainning\obj\Debug\net9.0\Trainning.dll
+C:\Users\felip\Documents\Studiyng\C#\Codding\Trainning\Trainning\obj\Debug\net9.0\refint\Trainning.dll
+C:\Users\felip\Documents\Studiyng\C#\Codding\Trainning\Trainning\obj\Debug\net9.0\Trainning.pdb
+C:\Users\felip\Documents\Studiyng\C#\Codding\Trainning\Trainning\obj\Debug\net9.0\Trainning.genruntimeconfig.cache
+C:\Users\felip\Documents\Studiyng\C#\Codding\Trainning\Trainning\obj\Debug\net9.0\ref\Trainning.dll
