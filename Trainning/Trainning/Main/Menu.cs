@@ -1,9 +1,9 @@
 ﻿using System;
 using System.ComponentModel.Design;
 
-namespace Trainning {
+namespace Trainning.Main {
     class Menu {
-        static void Main(String[] args) {
+        static void Main(string[] args) {
             Console.WriteLine("Hello, welcome to the Felipe's C# learning.");
             int option = 1;
             while ((option = WriteMenu()) != 0) {
