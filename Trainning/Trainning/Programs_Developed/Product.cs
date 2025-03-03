@@ -14,10 +14,18 @@ namespace Trainning.Programs_Developed
         private double price;
         private int qty;
 
+        // Constructor 1, receiving a initial qty 
         public Product(string name, double price, int qty) {
             this.name = name;
             this.price = price;
             this.qty = qty;
+        }
+
+        // Constructor 2 (overload), not receiving a initial qty (it will be 0)
+        public Product(string name, double price) {
+            this.name = name;
+            this.price = price;
+            this.qty = 0;           // Just to make it visible. By pattern, it already is initialized as 0
         }
 
         public double TotalStockValue() {
